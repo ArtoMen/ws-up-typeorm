@@ -1,0 +1,16 @@
+{
+  "name": "ws-up-typeorm",
+  "version": "0.1.1",
+  "description": "TypeORM module for WsUp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "npm:publish": "npm publish --registry http://192.168.50.80:4873"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typeorm": "^0.3.20",
+    "ws-up": "^0.3.0"
+  }
+}
